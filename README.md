@@ -77,7 +77,22 @@ npx create-react-app my-app
 * Para ejecutar la aplicacion React 
 ### `npm start`
 
-Recorrer arreglos map()
+* Recorrer arreglos map()
 
 * [Array.prototype.map()](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+
+```
+const arreglo = [1,2,3,4];
+
+let arreglo2 = [...arreglo, 5];
+
+// Recorrer un array con la function map
+const arreglo3 = arreglo2.map(function(numero){
+    return numero * 2;
+});
+
+console.log( arreglo )
+console.log( arreglo2 )
+console.log( arreglo3 )
+```
 
