@@ -76,3 +76,8 @@ npx create-react-app my-app
 
 * Para ejecutar la aplicacion React 
 ### `npm start`
+
+Recorrer arreglos map()
+
+* [Array.prototype.map()](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+
