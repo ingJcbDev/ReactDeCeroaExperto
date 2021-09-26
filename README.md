@@ -47,3 +47,17 @@
 
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
+## 9. introduccion a babel
+
+* [babeljs](https://babeljs.io/)
+
+Lo que hace babel es coger javascript moderno y convertirlo a javascript para todos osea que lo puede interpretar hasta el navegador mas viejo
+
+```
+const respApi = {
+  personas: ['Goku', 'Vegueta']
+};
+
+console.log(respApi.personas?.length);
+
+```
