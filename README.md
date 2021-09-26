@@ -59,5 +59,20 @@ const respApi = {
 };
 
 console.log(respApi.personas?.length);
-
 ```
+
+## Introduccion a javaScript moderno
+
+* [Documentacion React-app.dev](https://create-react-app.dev/)
+
+* Para ver la version npx
+```
+npx --version
+```
+* Para crear una aplicacion React con npx
+```
+npx create-react-app my-app
+```
+
+* Para ejecutar la aplicacion React 
+### `npm test`
