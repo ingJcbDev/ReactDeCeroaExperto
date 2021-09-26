@@ -75,4 +75,4 @@ npx create-react-app my-app
 ```
 
 * Para ejecutar la aplicacion React 
-### `npm test`
+### `npm start`
