@@ -96,3 +96,9 @@ console.log( arreglo2 )
 console.log( arreglo3 )
 ```
 
+* La desestructuración
+
+* [desestructuracion](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+
+
+
