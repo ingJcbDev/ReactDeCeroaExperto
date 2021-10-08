@@ -1,5 +1,5 @@
 // import heroes, {owners} from '../data/heroes'; //exportar
-import {getHeroeByid1} from './bases/08-imp-exp';
+import {getHeroeByid1} from './08-imp-exp';
 // import heroes from './data/heroes';
 
 // console.log();
