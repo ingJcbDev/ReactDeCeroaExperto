@@ -102,15 +102,29 @@ console.log( arreglo3 )
 
 
 * Array.prototype.find()
-
 * [find](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 
-
 * Array.prototype.filter()
-
 * [filter](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
 * Promise
-
 * [Promise](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+* Fetch API
+* [Fetch_API](https://developer.mozilla.org/es/docs/Web/API/Fetch_API)
+
+* giphy developers
+Api de giphy animados
+* [developers_giphy](https://developers.giphy.com/)
+
+App Name
+ReactCeroExpertoCursoUdemy
+API Key ??
+8EZgrIzFiRbfJoVYkxD33fzmztdRh00j
+Description
+Api de gighy animados para el curso de udemy
+
+* [endpoint#random](https://developers.giphy.com/docs/api/endpoint#random)
+api.giphy.com/v1/gifs/random
+
 
