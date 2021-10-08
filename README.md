@@ -110,3 +110,7 @@ console.log( arreglo3 )
 
 * [filter](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
+* Promise
+
+* [Promise](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
