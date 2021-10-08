@@ -117,11 +117,11 @@ console.log( arreglo3 )
 Api de giphy animados
 * [developers_giphy](https://developers.giphy.com/)
 
-App Name
+* App Name
 ReactCeroExpertoCursoUdemy
-API Key ??
+* API Key ??
 8EZgrIzFiRbfJoVYkxD33fzmztdRh00j
-Description
+* Description
 Api de gighy animados para el curso de udemy
 
 * [endpoint#random](https://developers.giphy.com/docs/api/endpoint#random)
