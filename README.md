@@ -101,4 +101,12 @@ console.log( arreglo3 )
 * [desestructuracion](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 
 
+* Array.prototype.find()
+
+* [find](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+
+
+* Array.prototype.filter()
+
+* [filter](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
