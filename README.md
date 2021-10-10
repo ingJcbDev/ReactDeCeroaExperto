@@ -211,3 +211,12 @@ console.log(mensaje5);
 Es una sección importante, especialmente para todos los que están empezando de cero en React, ya que dará las bases de cómo segmentar la lógica de nuestra aplicación en pequeñas piezas más fáciles de mantener.
 
 
+31. Primera aplicación de React
+
+* [create-react-app](https://create-react-app.dev/)
+
+```
+npx create-react-app my-app
+cd my-app
+npm start
+```
