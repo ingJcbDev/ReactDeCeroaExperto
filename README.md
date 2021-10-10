@@ -134,7 +134,7 @@ api.giphy.com/v1/gifs/random
 
 Example
 
-´´´
+```
 const getImagen = async() => {
     try {
         const apikey = '8EZgrIzFiRbfJoVYkxD33fzmztdRh00j';
@@ -152,5 +152,5 @@ const getImagen = async() => {
 }
 
 getImagen();
-´´´
+```
 
