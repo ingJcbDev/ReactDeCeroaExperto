@@ -7,21 +7,14 @@ import React, { Fragment } from 'react';
 
 //FC
 const PrimeraApp = () => {
+
+    const saludo = 'Hola Mundo';
+
     return (
-        //div incesario de optimiza Fragment
-        // <div>
-        //     <h1>Hola Mundo</h1>
-        //     <p>M primera aplicacion</p>
-        // </div>
-        // Fragment forma larga
-        // <Fragment>
-        //     <h1>Hola Mundo</h1>
-        //     <p>M primera aplicacion</p>
-        // </Fragment>
-        // Fragment forma Corta
         <>
-            <h1>Hola Mundo</h1>
-            <p>M primera aplicacion</p>
+            <h1>{saludo}</h1>
+            {/* <pre>{JSON.stringify(saludo, null, 3)}</pre> */}
+            <p>M1 primera aplicacion</p>
         </>
     );
 }
