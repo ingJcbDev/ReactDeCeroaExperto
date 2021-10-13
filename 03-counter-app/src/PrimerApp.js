@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import ProTypes from 'prop-types';
+import PropTypes from 'prop-types';
 
 //imr tab importa react
 
@@ -31,8 +31,8 @@ const PrimeraApp = ({
 }
 
 // Esto deberia lanzar una alerta pero nada 
-PrimeraApp.proTypes = {
-    saludo: ProTypes.string.isRequired
+PrimeraApp.propTypes = {
+    saludo: PropTypes.string.isRequired
 }
 
 // propiedad por defecto

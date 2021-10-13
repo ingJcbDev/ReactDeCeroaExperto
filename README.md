@@ -220,3 +220,11 @@ npx create-react-app my-app
 cd my-app
 npm start
 ```
+
+41. Componente CounterApp
+
+para ver el privew de un GIS
+
+VIEW -> Command Palette -> markdown: open Preview
+
+rafcp -> Crea funcional componen con propTypes
