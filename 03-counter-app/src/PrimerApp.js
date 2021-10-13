@@ -6,9 +6,11 @@ import React, { Fragment } from 'react';
 // functional component
 
 //FC
-const PrimeraApp = () => {
+const PrimeraApp = ({saludo = "hola mundo"}) => {
 
-    const saludo = 'Hola Mundo';
+    // const saludo = 'Hola Mundo';
+
+    // console.log(props)
 
     return (
         <>
