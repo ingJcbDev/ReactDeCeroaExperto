@@ -228,3 +228,9 @@ para ver el privew de un GIS
 VIEW -> Command Palette -> markdown: open Preview
 
 rafcp -> Crea funcional componen con propTypes
+
+42. Evento click (Eventos en general)
+
+
+* [Eventos](https://es.reactjs.org/docs/events.html)
+para ver los eventos del html que interactuan react
