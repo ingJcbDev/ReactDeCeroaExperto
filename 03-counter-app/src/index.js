@@ -8,4 +8,4 @@ const saludo = <h1>Hola mundo</h1>;
 // Referencia  
 const divRoot = document.querySelector('#app');
 // renderizar 
-ReactDOM.render(<PrimeraApp /> , divRoot);
+ReactDOM.render(<PrimeraApp saludo="Hola mund"/> , divRoot);

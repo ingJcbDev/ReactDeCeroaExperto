@@ -7,7 +7,10 @@ import ProTypes from 'prop-types';
 // functional component
 
 //FC
-const PrimeraApp = ({saludo}) => {
+const PrimeraApp = ({
+                        saludo, 
+                        subtitulo
+                    }) => {
 
     // const saludo = 'Hola Mundo';
 
@@ -22,7 +25,7 @@ const PrimeraApp = ({saludo}) => {
         <>
             <h1>{saludo}</h1>
             {/* <pre>{JSON.stringify(saludo, null, 3)}</pre> */}
-            <p>M1 primera aplicacion</p>
+            <p>{subtitulo}</p>
         </>
     );
 }
@@ -30,6 +33,11 @@ const PrimeraApp = ({saludo}) => {
 // Esto deberia lanzar una alerta pero nada 
 PrimeraApp.proTypes = {
     saludo: ProTypes.string.isRequired
+}
+
+// propiedad por defecto
+PrimeraApp.defaultProps = {
+    subtitulo: 'soy un subtitul'
 }
 
 export default PrimeraApp;
