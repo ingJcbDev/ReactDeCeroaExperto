@@ -27,6 +27,7 @@ const PrimeraApp = ({saludo}) => {
     );
 }
 
+// Esto deberia lanzar una alerta pero nada 
 PrimeraApp.proTypes = {
     saludo: ProTypes.string.isRequired
 }
