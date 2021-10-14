@@ -4,7 +4,7 @@ import ReactDOM  from 'react-dom'; // Importacion del react dom
 import CounterApp from './CounterApp';
 import './index.css';
 
-const saludo = <h1>Hola mundo</h1>;
+// const saludo = <h1>Hola mundo</h1>;
 
 // Referencia  
 const divRoot = document.querySelector('#app');
