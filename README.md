@@ -256,3 +256,9 @@ los archivos de pruebas que baj dentro de esta carpeta deberan tener la extencio
 ```
 npm run test
 ```
+
+* 51. Jest - Expect - toBe
+
+
+
+* [jestjs](https://jestjs.io/docs/expect)
