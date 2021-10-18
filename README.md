@@ -262,3 +262,16 @@ npm run test
 
 
 * [jestjs](https://jestjs.io/docs/expect)
+
+* 52. Pruebas en el archivo
+02-template-string.js
+
+import
+``` 
+import '@testing-library/jest-dom'; // para tener las ayudas de la sintaxis
+import { getSaludo } from "../../base/02-template-string"; //para poder ejecutar la funciones del archio y a la funcion agregarle (export) el archivo de origen
+```
+
+En la consola del test W para que aparezca el menu
+* luego la tecla (p)
+* pattern > 02-template
