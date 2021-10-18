@@ -234,3 +234,15 @@ rafcp -> Crea funcional componen con propTypes
 
 * [Eventos](https://es.reactjs.org/docs/events.html)
 para ver los eventos del html que interactuan react
+
+
+
+
+
+
+
+
+
+
+## Sección 5: Pruebas uniarias y de integracion - probando las secciones anteriores
+
