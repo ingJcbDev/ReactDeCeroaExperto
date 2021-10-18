@@ -246,3 +246,13 @@ para ver los eventos del html que interactuan react
 
 ## Sección 5: Pruebas uniarias y de integracion - probando las secciones anteriores
 
+* En el patron de pruebas creamos una carpeta dentro de src llamada (tests)
+
+los archivos de pruebas que baj dentro de esta carpeta deberan tener la extencion 
+(demo.test.js) como este ejemplo
+
+* Comando para ejecutar las pruebas en una nueva terminal
+
+```
+npm run test
+```
