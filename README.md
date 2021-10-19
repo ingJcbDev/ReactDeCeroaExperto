@@ -234,3 +234,44 @@ rafcp -> Crea funcional componen con propTypes
 
 * [Eventos](https://es.reactjs.org/docs/events.html)
 para ver los eventos del html que interactuan react
+
+
+
+
+
+
+
+
+
+
+## Sección 5: Pruebas uniarias y de integracion - probando las secciones anteriores
+
+* En el patron de pruebas creamos una carpeta dentro de src llamada (tests)
+
+los archivos de pruebas que baj dentro de esta carpeta deberan tener la extencion 
+(demo.test.js) como este ejemplo
+
+* Comando para ejecutar las pruebas en una nueva terminal
+
+```
+npm run test
+```
+
+* 51. Jest - Expect - toBe
+
+
+
+* [jestjs](https://jestjs.io/docs/expect)
+
+* 52. Pruebas en el archivo
+02-template-string.js
+
+import
+``` 
+import '@testing-library/jest-dom'; // para tener las ayudas de la sintaxis
+import { getSaludo } from "../../base/02-template-string"; //para poder ejecutar la funciones del archio y a la funcion agregarle (export) el archivo de origen
+```
+
+En la consola del test W para que aparezca el menu
+* luego la tecla (p)
+* pattern > 02-template
