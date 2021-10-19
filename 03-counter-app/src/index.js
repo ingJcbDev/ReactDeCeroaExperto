@@ -10,4 +10,4 @@ import './index.css';
 const divRoot = document.querySelector('#app');
 // renderizar 
 // ReactDOM.render(<PrimeraApp /> , divRoot);
-ReactDOM.render(<CounterApp value={100}/> , divRoot);
+ReactDOM.render(<CounterApp value={10}/> , divRoot);
