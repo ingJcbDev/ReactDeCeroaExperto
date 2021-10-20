@@ -21,7 +21,7 @@
 ## Extensiones de VSCode
 [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
 
-### Configuración del Bracket Pair Colorizer 2
+### Configuraciï¿½n del Bracket Pair Colorizer 2
 
 [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 ```
@@ -96,7 +96,7 @@ console.log( arreglo2 )
 console.log( arreglo3 )
 ```
 
-* La desestructuración
+* La desestructuraciï¿½n
 
 * [desestructuracion](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 
@@ -129,7 +129,7 @@ api.giphy.com/v1/gifs/random
 
 ### Async - Await
 
-* Async -> Asincrónico
+* Async -> Asincrï¿½nico
 * Await -> Esperar
 
 Example
@@ -184,17 +184,17 @@ console.log(mensaje5);
 * [https://developer.mozilla.org/](https://developer.mozilla.org/es/)
 
 
-## Sección 4: Primeros pasos en React
+## Secciï¿½n 4: Primeros pasos en React
 
-### Temas puntuales de la sección
+### Temas puntuales de la secciï¿½n
 
-¿Qué veremos en esta sección?
+ï¿½Quï¿½ veremos en esta secciï¿½n?
 
-* Nuestra primera aplicación - Hola Mundo
+* Nuestra primera aplicaciï¿½n - Hola Mundo
 
 * Exposiciones sobre los componentes
 
-* Creación de componentes (Functional Components)
+* Creaciï¿½n de componentes (Functional Components)
 
 * Propiedades - Props
 
@@ -204,14 +204,14 @@ console.log(mensaje5);
 
 * DefaultProps
 
-* Introducción general a los Hooks
+* Introducciï¿½n general a los Hooks
 
 * useState
 
-Es una sección importante, especialmente para todos los que están empezando de cero en React, ya que dará las bases de cómo segmentar la lógica de nuestra aplicación en pequeñas piezas más fáciles de mantener.
+Es una secciï¿½n importante, especialmente para todos los que estï¿½n empezando de cero en React, ya que darï¿½ las bases de cï¿½mo segmentar la lï¿½gica de nuestra aplicaciï¿½n en pequeï¿½as piezas mï¿½s fï¿½ciles de mantener.
 
 
-31. Primera aplicación de React
+31. Primera aplicaciï¿½n de React
 
 * [create-react-app](https://create-react-app.dev/)
 
@@ -235,16 +235,7 @@ rafcp -> Crea funcional componen con propTypes
 * [Eventos](https://es.reactjs.org/docs/events.html)
 para ver los eventos del html que interactuan react
 
-
-
-
-
-
-
-
-
-
-## Sección 5: Pruebas uniarias y de integracion - probando las secciones anteriores
+## Secciï¿½n 5: Pruebas uniarias y de integracion - probando las secciones anteriores
 
 * En el patron de pruebas creamos una carpeta dentro de src llamada (tests)
 
