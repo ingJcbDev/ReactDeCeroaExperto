@@ -266,3 +266,16 @@ import { getSaludo } from "../../base/02-template-string"; //para poder ejecutar
 En la consola del test W para que aparezca el menu
 * luego la tecla (p)
 * pattern > 02-template
+
+* 59. Enzyme - Testing unit
+Dependencia
+
+* [enzymejs.github.io](https://enzymejs.github.io/enzyme/)
+* [enzyme-to-json](https://www.npmjs.com/package/enzyme-to-json)
+* [enzyme-adapter-react-17](https://github.com/wojtekmaj/enzyme-adapter-react-17)
+
+* Soluciona los errores
+
+```
+npm install --save-dev enzyme
+```
